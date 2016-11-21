@@ -1,0 +1,14 @@
+INDEX VERSION 1.3+E:\JP INDRA_ARQUIVOS E SOFTWARES\BIN\workspaceStruts\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3724850498.index
+312809570.index
+1668863869.index
+719923685.index
+1167082355.index
+2650980561.index
+3333015880.index
+3683805168.index
+964935832.index
+2584655147.index
+2321943641.index
+3697422333.index
+1868145950.index

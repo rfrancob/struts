@@ -1,0 +1,5 @@
+package br.com.struts.action;
+
+public class IndexAction {
+
+}
